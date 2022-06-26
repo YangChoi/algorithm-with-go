@@ -9,3 +9,14 @@
 - binary tree preorder traversal
 - rotate array
 
+<h4>day03</h4>
+- move zeroes
+- two sum2 - input array is sorted
+
+<h4>day04</h4>
+- reverse string
+- reverse words in string3
+
+<h4>day05</h4>
+- middle of the linked list
+- remove nth node from end of list
