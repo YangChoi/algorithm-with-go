@@ -20,3 +20,7 @@
 <h4>day05</h4>
 - middle of the linked list
 - remove nth node from end of list
+
+<h4>day06</h4>
+- longest substring without repeating characters
+- permutation in string
