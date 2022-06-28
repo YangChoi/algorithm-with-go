@@ -24,3 +24,7 @@
 <h4>day06</h4>
 - longest substring without repeating characters
 - permutation in string
+
+<h4>day07</h4>
+- flood fill
+- max area of island
