@@ -28,3 +28,7 @@
 <h4>day07</h4>
 - flood fill
 - max area of island
+
+<h4>day08</h4>
+- merge two binary trees
+- populating next right pointers in each nodes
