@@ -32,3 +32,11 @@
 <h4>day08</h4>
 - merge two binary trees
 - populating next right pointers in each nodes
+
+<h4>day09</h4>
+- matrix
+- rotting oranges
+
+<h4>day10</h4>
+- merge two sorted lists
+- reverse linked list
