@@ -1,42 +1,47 @@
 <h2>Algorithm with GoLang</h2>
 
 <h4>day01</h4>
-- binary search
-- first bad version
-- search insert position
+- binary search<br>
+- first bad version<br>
+- search insert position<br>
 
 <h4>day02</h4>
-- binary tree preorder traversal
-- rotate array
+- binary tree preorder traversal<br>
+- rotate array<br>
 
 <h4>day03</h4>
-- move zeroes
-- two sum2 - input array is sorted
+- move zeroes<br>
+- two sum2<br>
+- input array is sorted<br>
 
 <h4>day04</h4>
-- reverse string
-- reverse words in string3
+- reverse string<br>
+- reverse words in string3<br>
 
 <h4>day05</h4>
-- middle of the linked list
-- remove nth node from end of list
+- middle of the linked list<br>
+- remove nth node from end of list<br>
 
 <h4>day06</h4>
-- longest substring without repeating characters
-- permutation in string
+- longest substring without repeating characters<br>
+- permutation in string<br>
 
 <h4>day07</h4>
-- flood fill
-- max area of island
+- flood fill<br>
+- max area of island<br>
 
 <h4>day08</h4>
-- merge two binary trees
-- populating next right pointers in each nodes
+- merge two binary trees<br>
+- populating next right pointers in each nodes<br>
 
 <h4>day09</h4>
-- matrix
-- rotting oranges
+- matrix<br>
+- rotting oranges<br>
 
 <h4>day10</h4>
-- merge two sorted lists
-- reverse linked list
+- merge two sorted lists<br>
+- reverse linked list<br>
+
+<h4>day11</h4>
+- combinations<br>
+- permutations<br>
